@@ -18,3 +18,7 @@ Desafio proposto durante o curso "Sistemas Relacionais em Banco de dados" realiz
 - O pedido são criados por clientes e possuem informações de compra, endereço e status da entrega;
 - Um produto ou mais compoem o pedido;
 - O pedido pode ser cancelado.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+## Resultado
+
+![Image](https://github.com/user-attachments/assets/293aada1-d707-44cb-99c3-2fa0cf5ca5b6)
