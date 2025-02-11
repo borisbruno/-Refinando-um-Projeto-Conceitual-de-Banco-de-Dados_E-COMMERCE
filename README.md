@@ -1,4 +1,4 @@
-# Refinando um Projeto Conceitual de Banco de Dados E-COMMERCE
+# Refinar um Projeto Conceitual de Banco de Dados E-COMMERCE
 
 Desafio proposto durante o curso "Sistemas Relacionais em Banco de dados" realizado através da plataforma de aprendizado DIO. É apresentado um projeto conceitual com oportunidades de ajustes, adições e melhorias cabendo ao aluno realizá-las.
 
